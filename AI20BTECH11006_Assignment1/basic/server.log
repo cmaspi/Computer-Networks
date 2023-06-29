@@ -1,0 +1,276 @@
+INFO:root:Got Connection from ('10.0.1.1', 46018)
+DEBUG:root:Server Received: PUT /assignment1/courses/AI3001/Advanced Topics in Machine Learning HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46020)
+DEBUG:root:Server Received: PUT /assignment1/courses/CS3530/Computer Networks HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46022)
+DEBUG:root:Server Received: PUT /assignment1/courses/AI3000/Reinforcement Learning HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46024)
+DEBUG:root:Server Received: PUT /assignment1/courses/CS2323/Computer Architecture HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46026)
+DEBUG:root:Server Received: PUT /assignment1/courses/EE2101/Control Systems HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46028)
+DEBUG:root:Server Received: PUT /assignment1/courses/MA5060/Numerical Analysis HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46030)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46032)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46034)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46036)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46038)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46040)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46042)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46044)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46046)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46048)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46050)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46052)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46054)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46056)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46058)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46060)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46062)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46064)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46104)
+DEBUG:root:Server Received: PUT /assignment1/courses/AI3000/Reinforcement Learning HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46106)
+DEBUG:root:Server Received: PUT /assignment1/courses/AI3001/Advanced Topics in Machine Learning HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46108)
+DEBUG:root:Server Received: PUT /assignment1/courses/EE2101/Control Systems HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46110)
+DEBUG:root:Server Received: PUT /assignment1/courses/MA5060/Numerical Analysis HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46112)
+DEBUG:root:Server Received: PUT /assignment1/courses/CS3530/Computer Networks HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46114)
+DEBUG:root:Server Received: PUT /assignment1/courses/CS2323/Computer Architecture HTTP/1.1
+Host: 10.0.1.2
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46116)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46118)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46120)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3000 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46122)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46124)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46126)
+DEBUG:root:Server Received: GET /assignment1/courses/AI3001 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46128)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46130)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46132)
+DEBUG:root:Server Received: GET /assignment1/courses/EE2101 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46134)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46136)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46138)
+DEBUG:root:Server Received: GET /assignment1/courses/MA5060 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46140)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46142)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46144)
+DEBUG:root:Server Received: GET /assignment1/courses/CS3530 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46146)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46148)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
+INFO:root:Got Connection from ('10.0.1.1', 46150)
+DEBUG:root:Server Received: GET /assignment1/courses/CS2323 HTTP/1.1
+Host: 10.0.1.2
+Accept: application/json
+
+
